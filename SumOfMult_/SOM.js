@@ -93,8 +93,3 @@ class SumOfMultiples {
 }
 
 module.exports = SumOfMultiples;
-
-// let foo = new SumOfMultiples();
-// console.log(foo.to(4))
-
-// console.log(SumOfMultiples.to(4))

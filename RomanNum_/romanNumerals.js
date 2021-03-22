@@ -96,7 +96,4 @@ class RomanNumerals {
 
 module.exports = RomanNumerals;
 
-let newNumber = new RomanNumerals(182);
-
-console.log(newNumber.toRoman())
 

@@ -117,4 +117,3 @@ class BeerSong {
 
 module.exports = BeerSong;
 
-console.log(BeerSong.lyrics())

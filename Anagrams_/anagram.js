@@ -79,6 +79,3 @@ class Anagram {
 }
 
 module.exports = Anagram;
-
-let word = new Anagram('corn')
-console.log(word.match(['corn', 'dark', 'Corn', 'rank', 'CORN', 'cron', 'park'])) //['maters', 'stream']

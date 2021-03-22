@@ -91,7 +91,3 @@ class Scrabble {
 }
 
 module.exports = Scrabble;
-// let word = new Scrabble('alacrity');
-// console.log(word.score())
-
-console.log(Scrabble.score('alacrity'))

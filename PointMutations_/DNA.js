@@ -105,6 +105,3 @@ class DNA {
 }
 
 module.exports = DNA;
-
-let dna = new DNA('AVGG')
-console.log(dna.hammingDistance('AVVFF'))
