@@ -1,4 +1,4 @@
-let Scrabble = require('./scrabble.js');
+let Scrabble = require('../lib/scrabble.js');
 
 describe("Scrabble", () => {
   test("empty word scores zero", () => {

@@ -1,4 +1,4 @@
-let DNA = require('./DNA.js');
+let DNA = require('../lib/DNA.js');
 
 describe("DNA", () => {
   test("no difference between empty strands", () => {

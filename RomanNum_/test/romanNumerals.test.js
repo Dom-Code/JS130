@@ -1,4 +1,4 @@
-let RomanNumeral = require('./romanNumerals.js');
+let RomanNumeral = require('../lib/romanNumerals.js');
 
 describe('RomanNumeral', () => {
   test('1', () => {

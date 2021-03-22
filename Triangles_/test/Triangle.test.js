@@ -1,4 +1,4 @@
-let Triangle = require('./triangle.js');
+let Triangle = require('../lib/triangle.js');
 
 describe("Triangle", () => {
   test("equilateral triangles have equal sides", () => {

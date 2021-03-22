@@ -1,4 +1,4 @@
-let BeerSong = require('./beerSong.js');
+let BeerSong = require('../lib/beerSong.js');
 
 describe("Beer Song", () => {
   test("first verse", () => {

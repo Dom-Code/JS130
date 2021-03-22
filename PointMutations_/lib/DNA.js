@@ -83,8 +83,6 @@ class DNA {
         
         let shortest = this.firstSequence.length < string.length ? this.firstSequence : string;
 
-        return shortest
-
         if (secondCopy.length < firstCopy.length) {
             maxLength = secondCopy.length;
             for (let index = 0; index < maxLength; index += 1) {

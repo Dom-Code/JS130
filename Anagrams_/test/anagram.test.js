@@ -1,4 +1,4 @@
-let Anagram = require('./anagram.js');
+let Anagram = require('../lib/anagram.js');
 
 describe("Anagram", () => {
   test("No matches returns empty array", () => {

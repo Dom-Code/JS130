@@ -1,4 +1,4 @@
-let SumOfMultiples = require('./SOM.js');
+let SumOfMultiples = require('../lib/SOM.js');
 
 describe("sum of multiples", () => {
   test("sum to one", () => {

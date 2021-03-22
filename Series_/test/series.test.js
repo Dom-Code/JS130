@@ -1,4 +1,4 @@
-let Series = require('./series.js');
+let Series = require('../lib/series.js');
 
 describe("Series", () => {
   test("test simple slices of one", () => {
